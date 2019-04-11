@@ -1,1 +1,0 @@
-# vosung-config-server
